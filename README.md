@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# CodingKari
+- **`👋 Hi, I’m @CodingKari`**
+- **`👀 I’m interested in coding, music and building legos!`**
+- **`🌱 I’m currently learning to be a full stack engineer at Coding Temple coding bootcamp`**
+- **`💞️ I’m looking to collaborate on anything and everything! Exposure is a top priority for me.`**
+- **`📫 How to reach me: geigerlewis.k@gmail.com`**
