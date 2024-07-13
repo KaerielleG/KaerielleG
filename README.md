@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+    <a href="https://github.com/KaerielleG">
+      <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Kaerielle Geiger-Lewis" /></a>
+  </p>
 # CodingKari
-- **`👋 Hi, I’m @CodingKari`**
+- **`👋 Hi, I’m @KaerielleG`**
 - **`👀 I’m interested in coding, music and building legos!`**
 - **`🌱 I’m currently learning to be a full stack engineer at Coding Temple coding bootcamp`**
 - **`💞️ I’m looking to collaborate on anything and everything! Exposure is a top priority for me.`**
