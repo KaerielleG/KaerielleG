@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # CodingKari
-- **`👋 Hi, I’m @KaerielleG`**
+- **`👋 Hi, I’m @ReneeG`**
 - **`👀 I’m interested in coding, music and building legos!`**
 - **`🌱 I’m currently working on my Cybersecurity skills`**
 - **`💞️ I’m looking to collaborate on anything and everything! Exposure is a top priority for me.`**
